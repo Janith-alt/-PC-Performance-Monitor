@@ -1,4 +1,4 @@
-# PC Performance Monitor
+# PC Performance Monitor App
 
 A clean, lightweight, and modern desktop application built with Python and PySide6 to monitor real-time system performance on Windows.
 
