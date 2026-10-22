@@ -103,10 +103,4 @@ The application window will open and begin displaying your live CPU, GPU, RAM, D
 
 ---
 
-## Running Tests
 
-To run the automated test suite:
-
-```powershell
-pytest -v
-```
